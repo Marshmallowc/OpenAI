@@ -1,0 +1,4 @@
+const downloadApp = () => {
+  // Ìø×ªµ½DownloadÒ³Ãæ
+  router.push('/download')
+}
