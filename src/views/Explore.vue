@@ -9,8 +9,8 @@ const route = useRoute()
 const sidebarCollapsed = inject('sidebarCollapsed', ref(false))
 
 // Gemini API Key
-const GEMINI_API_KEY = 'AIzaSyBAKIHs9mDC7pvlWOGHF0QiPjl-oq4VlFI'
-const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent'
+const GEMINI_API_KEY = ''
+const GEMINI_API_URL = ''
 
 const userInput = ref('')
 const isLoading = ref(false)
